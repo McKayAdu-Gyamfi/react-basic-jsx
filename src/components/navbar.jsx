@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className='nav'>
         <h3 className='nav__title'>MVP</h3>
-        <p>Most Valuable Player</p>
+        <p>My Favorite Most Valuable Players</p>
     </nav>
   )
 }

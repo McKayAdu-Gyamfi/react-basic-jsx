@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.Descr{
+  font-size: 40px;
+}
+.foot{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 13vh;
+  background: #000a46;
+}
+.foot_cont{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 27px;
+  color: white;
+  font-family: 'Monoton', cursive;
+}
